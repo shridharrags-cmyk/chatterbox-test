@@ -1,0 +1,1 @@
+A qubit can be a zero, a one, or both at once. This is superposition, and it is what makes quantum computers different from every machine you have ever used.
